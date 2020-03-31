@@ -9,7 +9,7 @@ defmodule Matrimandir.Application do
     # List all child processes to be supervised
     children = [
       # Start the Ecto repository
-      Matrimandir.Repo,
+      # Matrimandir.Repo,
       # Start the endpoint when the application starts
       MatrimandirWeb.Endpoint
       # Starts a worker by calling: Matrimandir.Worker.start_link(arg)
