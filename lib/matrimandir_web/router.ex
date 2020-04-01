@@ -17,6 +17,7 @@ defmodule MatrimandirWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
+    get "/open_design_call", PageController, :open_design_call
   end
 
   # Other scopes may use custom stacks.

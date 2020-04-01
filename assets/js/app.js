@@ -15,3 +15,12 @@ import "phoenix_html"
 //
 // Local files can be imported directly using relative paths, for example:
 // import socket from "./socket"
+document.querySelectorAll('.play-icon').forEach(function(item) {
+    item.addEventListener('click', function(){
+        var source = this.parentElement.getAttribute('data');
+        this.parentElement.innerHTML = `<iframe width="100%" height="315" src="${source}?autoplay=1&rel=0" frameborder="0" autohide=true allow="accelerometer; autoplay=true; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+    })
+  })
+
+
+ 

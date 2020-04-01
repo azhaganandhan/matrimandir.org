@@ -7,6 +7,7 @@
     <title>envBot</title>
     <!-- Libs CSS -->
     <link rel="stylesheet" href="/fonts/Feather/feather.css">
+    <link rel="stylesheet" href="/fonts/Semantic/icon.css">
     <link rel="stylesheet" href="/libs/flickity/dist/flickity.min.css">
     <link rel="stylesheet" href="/libs/flickity-fade/flickity-fade.css">
     <link rel="stylesheet" href="/libs/aos/dist/aos.css">
@@ -27,7 +28,7 @@
     </div>
 
     <%= render @view_module, @view_template, assigns %>
-    <%= render "footer.html" %>
+    <%#= render "footer.html" %>
     <!-- JAVASCRIPT
     ================================================== -->
     <!-- Libs JS -->

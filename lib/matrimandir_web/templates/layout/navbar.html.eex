@@ -1,9 +1,9 @@
-<nav class="navbar navbar-expand-lg navbar-light">
+<nav class="navbar navbar-expand-lg navbar-light shadow">
   <div class="container">
 
     <!-- Brand -->
     <a class="navbar-brand" href="/">
-      <img src="/images/envbot.png" class="navbar-brand-img" />
+      Matrimandir
     </a>
 
     <!-- Toggler -->
@@ -20,29 +20,41 @@
       </button>
 
       <!-- Navigation -->
-      <!-- <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav ml-auto">
         <li class="nav-item">
-          <a class="nav-link" href="/">
-            Product
+          <a class="nav-link" href="#">
+            News
           </a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="/about">
+          <a class="nav-link" href="#">
             About
           </a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="/contact">
+          <a class="nav-link" href="#">
+            Gallery
+          </a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#">
+            Visit
+          </a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#">
             Contact
           </a>
         </li>
-      </ul> -->
+      </ul>
 
       <!-- Button -->
-      <a class="navbar-btn btn btn-sm btn-primary lift ml-auto" href="#" data-toggle="modal" data-target="#signUpForDemo">
-        Get in touch
+      <a class="navbar-btn btn btn-sm btn-primary lift ml-auto" href="/open_design_call" data-toggle="modal" data-target="#signUpForDemo">
+        Open Design Call
       </a>
 
     </div>
