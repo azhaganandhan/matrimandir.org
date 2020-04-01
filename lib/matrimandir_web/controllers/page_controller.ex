@@ -4,4 +4,8 @@ defmodule MatrimandirWeb.PageController do
   def index(conn, _params) do
     render(conn, "index.html")
   end
+
+  def open_design_call(conn, _params) do
+    render(conn, "design_call.html")
+  end
 end

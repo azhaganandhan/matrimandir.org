@@ -13,7 +13,7 @@ defmodule MatrimandirWeb.Endpoint do
     at: "/",
     from: :matrimandir,
     gzip: false,
-    only: ~w(css fonts img images plugins media libs js favicon.ico robots.txt sw.js)
+    only: ~w(css fonts img images plugins media libs js favicon.ico robots.txt sw.js pdfs)
 
   # Code reloading can be explicitly enabled under the
   # :code_reloader configuration of your endpoint.
