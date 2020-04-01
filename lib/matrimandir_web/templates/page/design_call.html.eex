@@ -8,7 +8,7 @@
                   <!-- Video -->
                 <div class="video-space" data="https://www.youtube.com/embed/FsOyllZxdA4">
                     <i class="video play icon play-icon"></i>
-                    <img src="https://img.youtube.com/vi/FsOyllZxdA4/maxresdefault.jpg" class="img-fluid">
+                    <img src="https://img.youtube.com/vi/FsOyllZxdA4/maxresdefault.jpg" class="img-fluid img-in-video-space">
                 </div>
 
 
@@ -43,7 +43,7 @@
               <!-- Video -->
                <div class="video-space" data="https://www.youtube.com/embed/0UqBcN6kUbI">
                     <i class="video play icon play-icon"></i>
-                <img src="https://img.youtube.com/vi/0UqBcN6kUbI/maxresdefault.jpg" class="img-fluid">
+                <img src="https://img.youtube.com/vi/0UqBcN6kUbI/maxresdefault.jpg" class="img-fluid img-in-video-space">
             </div>
 
               <!-- Body -->
@@ -79,7 +79,7 @@
             <!-- Video -->
               <div class="video-space" data="https://www.youtube.com/embed/ZuDm4ZZqNEk">
                 <i class="video play icon play-icon"></i>
-                <img src="https://img.youtube.com/vi/ZuDm4ZZqNEk/hqdefault.jpg" class="img-fluid">
+                <img src="https://img.youtube.com/vi/ZuDm4ZZqNEk/hqdefault.jpg" class="img-fluid img-in-video-space">
             </div>
 
             <!-- Body -->
@@ -111,7 +111,7 @@
             <!-- Video -->
             <div class="video-space" data="https://www.youtube.com/embed/lwxoY1ZrH0o">
                 <i class="video play icon play-icon"></i>
-                <img src="https://img.youtube.com/vi/lwxoY1ZrH0o/hqdefault.jpg" class="img-fluid">
+                <img src="https://img.youtube.com/vi/lwxoY1ZrH0o/hqdefault.jpg" class="img-fluid img-in-video-space">
             </div>
             <!-- Body -->
             <!-- Body -->
@@ -146,7 +146,7 @@
             <!-- Video -->
             <div class="video-space" data="https://www.youtube.com/embed/hvUkeJ8pulQ">
                 <i class="video play icon play-icon"></i>
-                <img src="https://img.youtube.com/vi/hvUkeJ8pulQ/maxresdefault.jpg" class="img-fluid">
+                <img src="https://img.youtube.com/vi/hvUkeJ8pulQ/maxresdefault.jpg" class="img-fluid img-in-video-space">
             </div>
             <!-- Body -->
             <!-- Body -->
@@ -178,7 +178,7 @@
             <!-- Video -->
             <div class="video-space" data="https://www.youtube.com/embed/0bHWU1gXj1g">
                 <i class="video play icon play-icon"></i>
-                <img src="https://img.youtube.com/vi/0bHWU1gXj1g/maxresdefault.jpg" class="img-fluid">
+                <img src="https://img.youtube.com/vi/0bHWU1gXj1g/maxresdefault.jpg" class="img-fluid img-in-video-space">
             </div>
             <!-- Body -->
               <div class="card-body" href="#!">
@@ -213,7 +213,7 @@
             <!-- Video -->
             <div class="video-space" data="https://www.youtube.com/embed/ML7slL-RjwI">
                 <i class="video play icon play-icon"></i>
-                <img src="https://img.youtube.com/vi/ML7slL-RjwI/maxresdefault.jpg" class="img-fluid">
+                <img src="https://img.youtube.com/vi/ML7slL-RjwI/maxresdefault.jpg" class="img-fluid img-in-video-space">
             </div>
             <!-- Body -->
             <!-- Body -->
@@ -246,7 +246,7 @@
             <!-- Video -->
             <div class="video-space" data="https://www.youtube.com/embed/glJjcRkFT6Y">
                 <i class="video play icon play-icon"></i>
-                <img src="https://img.youtube.com/vi/glJjcRkFT6Y/maxresdefault.jpg" class="img-fluid">
+                <img src="https://img.youtube.com/vi/glJjcRkFT6Y/maxresdefault.jpg" class="img-fluid img-in-video-space">
             </div>
             <!-- Body -->
             <!-- Body -->
@@ -282,7 +282,7 @@
             <!-- Video -->
             <div class="video-space" data="https://www.youtube.com/embed/kQFCfsKZF9A">
                 <i class="video play icon play-icon"></i>
-                <img src="https://img.youtube.com/vi/kQFCfsKZF9A/maxresdefault.jpg" class="img-fluid">
+                <img src="https://img.youtube.com/vi/kQFCfsKZF9A/maxresdefault.jpg" class="img-fluid img-in-video-space">
             </div>
             <!-- Body -->
             <!-- Body -->
@@ -315,7 +315,7 @@
             <!-- Video -->
             <div class="video-space" data="https://www.youtube.com/embed/hkuNkVGTXwQ">
                 <i class="video play icon play-icon"></i>
-                <img src="https://img.youtube.com/vi/hkuNkVGTXwQ/maxresdefault.jpg" class="img-fluid">
+                <img src="https://img.youtube.com/vi/hkuNkVGTXwQ/maxresdefault.jpg" class="img-fluid img-in-video-space">
             </div>
             <!-- Body -->
               <div class="card-body" href="#!">
@@ -348,7 +348,7 @@
                 <div class="modal-content">
                     <div class="container">
                     <h1>MMG-LLPW-02</h1>
-                    <iframe src="/pdfs/MMG-LLPW-02.pdf" width="100%" height="100%" border=0>
+                    <iframe src="/pdfs/MMG-LLPW-02.pdf" width="100%" height="100%" frameBorder="0">
                         This browser does not support PDFs. Please download the PDF to view it: 
                         <a href="/pdfs/MMG-LLPW-02.pdf">Download PDF</a>
                     </iframe>

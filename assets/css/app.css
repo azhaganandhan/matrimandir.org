@@ -55,3 +55,14 @@ i.play-icon{
 .modal-lg .modal-content{
     height: 1000px;
 }
+
+@media only screen and (max-width: 600px) {
+    .modal-lg .modal-content .container{
+        height: 450px !important;
+    }
+    
+    .modal-lg .modal-content{
+        height: 525px;
+    }
+}
+
