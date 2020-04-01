@@ -53,7 +53,7 @@
       </ul>
 
       <!-- Button -->
-      <a class="navbar-btn btn btn-sm btn-primary lift ml-auto" href="/open_design_call" data-toggle="modal" data-target="#signUpForDemo">
+      <a class="navbar-btn btn btn-sm btn-primary lift ml-auto" href="/open_design_call">
         Open Design Call
       </a>
 
