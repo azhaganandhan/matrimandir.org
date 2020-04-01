@@ -19,7 +19,6 @@ document.querySelectorAll('.play-icon').forEach(function(item) {
     item.addEventListener('click', function(){
         var source = this.parentElement.getAttribute('data');
         var img_height = document.querySelector('.img-in-video-space').clientHeight
-        console.log(img_height)
         this.parentElement.innerHTML = `<iframe width="100%" height="${img_height}" src="${source}?autoplay=1&rel=0" frameborder="0" autohide=true allow="accelerometer; autoplay=true; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
     })
   })
