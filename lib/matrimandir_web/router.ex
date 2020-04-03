@@ -18,6 +18,8 @@ defmodule MatrimandirWeb.Router do
 
     get "/", PageController, :index
     get "/open_design_call", PageController, :open_design_call
+    get "/about", PageController, :about
+    get "/gardens", PageController, :about
   end
 
   # Other scopes may use custom stacks.
