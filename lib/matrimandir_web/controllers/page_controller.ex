@@ -12,4 +12,8 @@ defmodule MatrimandirWeb.PageController do
   def about(conn, _params) do
     render(conn, "about.html")
   end
+
+  def gardens(conn, _params) do
+    render(conn, "gardens.html")
+  end
 end
