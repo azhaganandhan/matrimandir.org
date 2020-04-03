@@ -20,4 +20,8 @@ defmodule MatrimandirWeb.PageController do
   def gallery(conn, _params) do
     render(conn, "gallery.html")
   end
+
+  def visit(conn, _params) do
+    render(conn, "visit.html")
+  end
 end

@@ -21,6 +21,7 @@ defmodule MatrimandirWeb.Router do
     get "/about", PageController, :about
     get "/gardens", PageController, :gardens
     get "/gallery", PageController, :gallery
+    get "/visit", PageController, :visit
   end
 
   # Other scopes may use custom stacks.
