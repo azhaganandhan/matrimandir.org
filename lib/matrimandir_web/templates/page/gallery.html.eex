@@ -1,0 +1,833 @@
+<div class="container">
+    <img src="/images/gallery/gal-head-gold.jpg" alt="" class="img-fluid mb-5">
+    <h2 class="text-center">From the Inauguration in 1968 to the completion of Matrimandir</h2>
+    <div class="row">
+        <div class="card-columns">
+            <!-- Card -->
+            <div id="inaguration-01" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/01.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Inauguration ceremony on 28th February 1968</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="inaguration-02" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/02.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="inaguration-03" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/03.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Delegates from all over the world placing the soil from their own countries in the urn.</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="inaguration-04" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/04.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Laying the foundation Stone on 21st February 1972 </h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="inaguration-05" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/05.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Digging work in 1970</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="inaguration-06" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/06.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="inaguration-07" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/07.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="inaguration-08" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/08.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="inaguration-09" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/09.jpg" alt="...">
+                </div>
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                    <div class="card-body bg-white">
+                        <!-- Shape -->
+                        <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                        <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                        </div>
+    
+                        <!-- Preheading -->
+    
+                        <!-- Heading -->
+                        <h5 class="mb-0">Placing the gold in glass disks</h5>
+                    </div>
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="inaguration-10" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/10.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="inaguration-11" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/11.jpg" alt="...">
+                </div>
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                    <div class="card-body bg-white">
+                        <!-- Shape -->
+                        <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                        <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                        </div>
+    
+                        <!-- Preheading -->
+    
+                        <!-- Heading -->
+                        <h5 class="mb-0">“Lotus pond” below the Matrimandir</h5>
+                    </div>
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="inaguration-12" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/12.jpg" alt="...">
+                </div>
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                    <div class="card-body bg-white">
+                        <!-- Shape -->
+                        <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                        <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                        </div>
+    
+                        <!-- Preheading -->
+    
+                        <!-- Heading -->
+                        <h5 class="mb-0">Mahasaraswati entrance</h5>
+                    </div>
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="inaguration-13" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/13.jpg" alt="...">
+                </div>
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                    <div class="card-body bg-white">
+                        <!-- Shape -->
+                        <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                        <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                        </div>
+    
+                        <!-- Preheading -->
+    
+                        <!-- Heading -->
+                        <h5 class="mb-0">Drone photo in 2018</h5>
+                    </div>
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="inaguration-14" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/14.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="inaguration-15" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/15.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="inaguration-16" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/inaguration/16.jpg" alt="...">
+                </div>
+            </div>
+        </div>
+    </div>
+    <h2 class="text-center">Matrimandir Gardens</h2>
+    <div class="row">
+        <div class="card-columns">
+            <!-- Card -->
+            <div id="garden-01" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/01.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">The Banyan tree</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-02" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/02.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Sunset in Matrimandir</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-03" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/03.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Consciousness garden</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-04" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/04.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Progress garden</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-05" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/05.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Rock garden in viewing point</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-06" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/06.jpeg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Receptivity flowers and Matrimandir</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-07" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/07.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Unity Garden</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-08" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/08.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Miracle flower</h5>
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-09" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/09.jpeg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">One of our guardians</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-10" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/10.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="garden-11" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/11.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Progress garden</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-12" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/12.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Consciousness garden</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-13" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/13.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Progress garden</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-14" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/14.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Lotus pond in Progress garden</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-15" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/15.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Bliss garden</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="garden-16" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/16.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="garden-17" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/17.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="garden-18" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/18.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="garden-19" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/19.png" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="garden-20" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/garden/20.jpg" alt="...">
+                </div>
+            </div>
+        </div>
+    </div>
+    <h2 class="text-center">People in Matrimandir</h2>
+    <div class="row">
+        <div class="card-columns">
+            <!-- Card -->
+            <div id="people-01" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/01.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-02" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/02.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-03" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/03.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-04" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/04.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-05" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/05.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-06" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/06.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-07" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/07.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-08" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/08.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-09" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/09.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-10" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/10.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-11" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/11.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-12" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/12.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-13" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/13.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-14" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/14.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-15" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/15.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-16" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/16.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-17" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/17.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-18" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/18.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-19" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/19.jpg" alt="...">
+                </div>
+
+                <!-- Overlay -->
+                <div class="card-img-overlay card-img-overlay-hover">
+                <div class="card-body bg-white">
+
+                    <!-- Shape -->
+                    <div class="shape shape-bottom-100 shape-fluid-x svg-shim text-white">
+                    <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+                    </div>
+
+                    <!-- Preheading -->
+
+                    <!-- Heading -->
+                    <h5 class="mb-0">Tree planting ceremony at the Garden of the Unexpected</h5>
+
+                </div>
+                </div>
+
+            </div>
+            <!-- Card -->
+            <div id="people-20" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/20.jpg" alt="...">
+                </div>
+            </div>
+            <!-- Card -->
+            <div id="people-21" class="card shadow-light-lg" href="#!" referrerpolicy="origin">
+                <!-- Image -->
+                <div class="card-zoom">
+                <img class="card-img" src="/images/gallery/people/21.jpg" alt="...">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
