@@ -16,6 +16,11 @@ config :matrimandir, MatrimandirWeb.Endpoint,
 # Do not print debug messages in production
 config :logger, level: :info
 
+
+config :matrimandir, Matrimandir.Mailer,
+  adapter: Bamboo.MailgunAdapter,
+  api_key: "my_api_key"
+
 # ## SSL Support
 #
 # To get SSL working, you will need to add the `https` key

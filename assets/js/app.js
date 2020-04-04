@@ -26,7 +26,6 @@ document.querySelectorAll('.play-icon').forEach(function(item) {
 document.querySelectorAll('.modal-pdf').forEach(function(item) {
     item.addEventListener('click', function(){
         var pdf = this.getAttribute('data-pdf-name')
-        console.log(pdf)
         document.querySelector('.modal-content .container').innerHTML = `<h1>${pdf}</h1>
         <iframe src="/pdfs/${pdf}.pdf" width="100%" height="100%" frameBorder="0">This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/${pdf}.pdf">Download PDF</a></iframe>`
         $('#pdfModal').modal('toggle')

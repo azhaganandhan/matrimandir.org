@@ -31,8 +31,7 @@ config :matrimandir, MatrimandirWeb.Endpoint,
   ]
 
   config :matrimandir, Matrimandir.Mailer,
-  adapter: Bamboo.LocalAdapter,
-  api_key: "my_api_key"
+  adapter: Bamboo.LocalAdapter
 # ## SSL Support
 #
 # In order to use HTTPS in development, a self-signed
