@@ -17,6 +17,7 @@ defmodule MatrimandirWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
+    get "/news", PageController, :news
     get "/designs", PageController, :designs
     get "/about", PageController, :about
     get "/gardens", PageController, :gardens

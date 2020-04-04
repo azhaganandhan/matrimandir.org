@@ -24,4 +24,8 @@ defmodule MatrimandirWeb.PageController do
   def visit(conn, _params) do
     render(conn, "visit.html")
   end
+
+  def news(conn, _params) do
+    render(conn, "news.html")
+  end
 end
