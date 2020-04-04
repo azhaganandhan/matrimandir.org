@@ -40,6 +40,10 @@ i.play-icon{
     transition: opacity 0.5s ease;
 }
 
+.font-cursive{
+    font-family: 'Dawning of a New Day', cursive !important; 
+    font-size: 3.21rem;
+}
 
 .video-space{
     position: relative;

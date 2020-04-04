@@ -14,6 +14,8 @@
     <link rel="stylesheet" href="/libs/jarallax/dist/jarallax.css">
     <link rel="stylesheet" href="/libs/highlightjs/styles/vs2015.css">
     <link rel="stylesheet" href="/libs/@fancyapps/fancybox/dist/jquery.fancybox.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&display=swap" rel="stylesheet">
+
     <!-- Theme CSS -->
     <link rel="stylesheet" href="/css/theme.min.css">
     <link rel="stylesheet" href="<%= Routes.static_path(@conn, "/css/app.css") %>"/>

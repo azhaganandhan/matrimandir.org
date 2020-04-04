@@ -56,13 +56,13 @@
             Contact
           </a>
         </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="/designs">
+            Designs
+          </a>
+        </li>
       </ul>
-
-      <!-- Button -->
-      <a class="navbar-btn btn btn-sm btn-primary lift ml-auto" href="/open_design_call">
-        Open Design Call
-      </a>
-
     </div>
 
   </div>

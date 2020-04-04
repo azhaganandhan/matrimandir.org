@@ -5,8 +5,8 @@ defmodule MatrimandirWeb.PageController do
     render(conn, "index.html")
   end
 
-  def open_design_call(conn, _params) do
-    render(conn, "design_call.html")
+  def designs(conn, _params) do
+    render(conn, "designs.html")
   end
 
   def about(conn, _params) do
