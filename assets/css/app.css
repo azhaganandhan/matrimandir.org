@@ -13,6 +13,7 @@ i.play-icon{
     color: white;
 }
 
+
 .video-space .icon::before{
     position: absolute;
     top: 50%;

@@ -18,6 +18,18 @@ defmodule MatrimandirWeb.Router do
 
     get "/", PageController, :index
     get "/open_design_call", PageController, :open_design_call
+    get "/about", PageController, :about
+    get "/gardens", PageController, :gardens
+    get "/gallery", PageController, :gallery
+    get "/visit", PageController, :visit
+    get "/contact", ContactController, :index
+    post "/contact", ContactController, :contact
+
+  end
+
+  if Mix.env == :dev do
+    # If using Phoenix
+    forward "/sent_emails", Bamboo.SentEmailViewerPlug
   end
 
   # Other scopes may use custom stacks.
