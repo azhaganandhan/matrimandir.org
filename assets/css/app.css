@@ -71,3 +71,21 @@ i.play-icon{
     }
 }
 
+.footer {
+    background: black;
+    padding: 3rem;
+    width: 100%;
+}
+
+.footer{
+    background-image: url("/images/silhoutte-footer.png");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    padding-top: 10rem;
+}
+
+#register-button{
+    width: 50%;
+}
+
