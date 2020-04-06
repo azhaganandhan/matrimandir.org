@@ -22,45 +22,33 @@
       <!-- Navigation -->
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
-          <a class="nav-link" href="/news">
-            News
-          </a>
+          <%= active_link(@conn, "News", to: "/news", class_active: "active nav-link", class_inactive: "nav-link") %>
+        </li>
+        
+
+
+        <li class="nav-item">
+          <%= active_link(@conn, "About", to: "/about", class_active: "active nav-link", class_inactive: "nav-link") %>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="/about">
-            About
-          </a>
+          <%= active_link(@conn, "Gardens", to: "/gardens", class_active: "active nav-link", class_inactive: "nav-link") %>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="/gardens">
-            Gardens
-          </a>
+          <%= active_link(@conn, "Gallery", to: "/gallery", class_active: "active nav-link", class_inactive: "nav-link") %>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="/gallery">
-            Gallery
-          </a>
+          <%= active_link(@conn, "Visit", to: "/visit", class_active: "active nav-link", class_inactive: "nav-link") %>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="/visit">
-            Visit
-          </a>
+          <%= active_link(@conn, "Contact", to: "/contact", class_active: "active nav-link", class_inactive: "nav-link") %>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="/contact">
-            Contact
-          </a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="/designs">
-            Designs
-          </a>
+          <%= active_link(@conn, "Designs", to: "/designs", class_active: "active nav-link", class_inactive: "nav-link") %>
         </li>
       </ul>
     </div>

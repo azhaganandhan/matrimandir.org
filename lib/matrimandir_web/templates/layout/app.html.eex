@@ -23,7 +23,7 @@
     <link rel="apple-touch-icon" href="<%= Routes.static_path(@conn, "/images/env-bot192.png") %>">
   </head>
   <body>
-    <%= render "navbar.html" %>
+    <%= render "navbar.html", assigns%>
     <div class="container">
       <p class="alert alert-info" role="alert"><%= get_flash(@conn, :info) %></p>
       <p class="alert alert-danger" role="alert"><%= get_flash(@conn, :error) %></p>
