@@ -2,7 +2,7 @@ defmodule MatrimandirWeb.PageController do
   use MatrimandirWeb, :controller
 
   def index(conn, _params) do
-    render(conn, "index.html")
+    render(conn, "news.html")
   end
 
   def designs(conn, _params) do
