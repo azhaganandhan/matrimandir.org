@@ -360,7 +360,7 @@
   <div class="container">
     <div class="text-center">
       <h1 class="font-cursive text-white text-center"> Join the community panel</h1>
-      <button id="register-button" class="btn btn-primary btn-lg modal-pdf" data-toggle="modal">Register</button>
+      <button id="register-button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#gformModal"> Register</button>
     </div>
   </div>
 </footer>
@@ -379,11 +379,11 @@
         </div>
 
 <!-- Model for google form -->
-        <div id="pdfModal" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div id="gformModal" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
           <div class="modal-dialog modal-lg">
               <div class="modal-content">
                   <div class="container">
-                  
+                    <h4 class="mt-4  text-center">Form is not available</h4>
                   </div>
               </div>
           </div>
