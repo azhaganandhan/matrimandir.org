@@ -14,6 +14,8 @@
     <link rel="stylesheet" href="/libs/jarallax/dist/jarallax.css">
     <link rel="stylesheet" href="/libs/highlightjs/styles/vs2015.css">
     <link rel="stylesheet" href="/libs/@fancyapps/fancybox/dist/jquery.fancybox.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&display=swap" rel="stylesheet">
+
     <!-- Theme CSS -->
     <link rel="stylesheet" href="/css/theme.min.css">
     <link rel="stylesheet" href="<%= Routes.static_path(@conn, "/css/app.css") %>"/>
@@ -21,7 +23,7 @@
     <link rel="apple-touch-icon" href="<%= Routes.static_path(@conn, "/images/env-bot192.png") %>">
   </head>
   <body>
-    <%= render "navbar.html" %>
+    <%= render "navbar.html", assigns%>
     <div class="container">
       <p class="alert alert-info" role="alert"><%= get_flash(@conn, :info) %></p>
       <p class="alert alert-danger" role="alert"><%= get_flash(@conn, :error) %></p>

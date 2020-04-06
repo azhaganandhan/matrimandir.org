@@ -2,11 +2,11 @@ defmodule MatrimandirWeb.PageController do
   use MatrimandirWeb, :controller
 
   def index(conn, _params) do
-    render(conn, "index.html")
+    render(conn, "news.html")
   end
 
-  def open_design_call(conn, _params) do
-    render(conn, "design_call.html")
+  def designs(conn, _params) do
+    render(conn, "designs.html")
   end
 
   def about(conn, _params) do
@@ -23,5 +23,9 @@ defmodule MatrimandirWeb.PageController do
 
   def visit(conn, _params) do
     render(conn, "visit.html")
+  end
+
+  def news(conn, _params) do
+    render(conn, "news.html")
   end
 end

@@ -42,6 +42,8 @@ defmodule MatrimandirWeb do
       import MatrimandirWeb.ErrorHelpers
       import MatrimandirWeb.Gettext
       alias MatrimandirWeb.Router.Helpers, as: Routes
+      import PhoenixActiveLink
+
     end
   end
 

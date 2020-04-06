@@ -40,6 +40,10 @@ i.play-icon{
     transition: opacity 0.5s ease;
 }
 
+.font-cursive{
+    font-family: 'Dawning of a New Day', cursive !important; 
+    font-size: 3.21rem;
+}
 
 .video-space{
     position: relative;
@@ -67,3 +71,24 @@ i.play-icon{
     }
 }
 
+.footer {
+    background: black;
+    padding: 3rem;
+    width: 100%;
+}
+
+.footer{
+    background-image: url("/images/silhoutte-footer.png");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    padding-top: 10rem;
+}
+
+#register-button{
+    width: 50%;
+}
+
+.related-links{
+    background: #80808014;
+}

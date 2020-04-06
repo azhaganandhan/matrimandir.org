@@ -43,7 +43,8 @@ defmodule Matrimandir.MixProject do
       {:gettext, "~> 0.11"},
       {:jason, "~> 1.0", override: true},
       {:plug_cowboy, "~> 2.0"},
-      {:bamboo, "~> 1.4"}
+      {:bamboo, "~> 1.4"},
+      {:phoenix_active_link, "~> 0.2.1"}
     ]
   end
 
