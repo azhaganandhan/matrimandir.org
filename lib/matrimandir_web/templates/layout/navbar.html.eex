@@ -3,7 +3,7 @@
 
     <!-- Brand -->
     <a class="navbar-brand" href="/">
-      Matrimandir
+      <img src="/images/nav-image-matrimandir.svg" alt="" class="navbar-brand-img">
     </a>
 
     <!-- Toggler -->
