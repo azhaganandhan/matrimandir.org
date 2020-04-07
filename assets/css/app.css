@@ -53,8 +53,13 @@ i.play-icon{
     margin-bottom: 3rem;
 }
 
+.modal-lg{
+    min-width: 90%;
+}
+
 .modal-lg .modal-content .container{
-    height: 800px !important;
+    height: 900px !important;
+    min-width: 90%;
 }
 
 .modal-lg .modal-content{
@@ -68,6 +73,9 @@ i.play-icon{
     
     .modal-lg .modal-content{
         height: 525px;
+    }
+    .modal-lg{
+        min-width: auto;
     }
 }
 
