@@ -4,7 +4,7 @@
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>envBot</title>
+    <title>Matrimandir - The Soul of Auroville</title>
     <!-- Libs CSS -->
     <link rel="stylesheet" href="/fonts/Feather/feather.css">
     <link rel="stylesheet" href="/fonts/Semantic/icon.css">
@@ -20,7 +20,10 @@
     <link rel="stylesheet" href="/css/theme.min.css">
     <link rel="stylesheet" href="<%= Routes.static_path(@conn, "/css/app.css") %>"/>
     <link rel="manifest" href="<%= Routes.static_path(@conn, "/js/manifest.json") %>"/>
-    <link rel="apple-touch-icon" href="<%= Routes.static_path(@conn, "/images/env-bot192.png") %>">
+    <link rel="icon" href="/images/MM-Photo-6s-150x150.jpg" sizes="32x32" />
+    <link rel="icon" href="/images/MM-Photo-6s-300x300.jpg" sizes="192x192" />
+    <link rel="apple-touch-icon-precomposed" href="/images/MM-Photo-6s-300x300.jpg" />
+    <meta name="msapplication-TileImage" content="/images/MM-Photo-6s-300x300.jpg" />
   </head>
   <body>
     <%= render "navbar.html", assigns%>

@@ -10,16 +10,13 @@ use Mix.Config
 # which you should run after static files are built and
 # before starting your production server.
 config :matrimandir, MatrimandirWeb.Endpoint,
-  url: [host: "example.com", port: 80],
+  url: [host: "matrimandir.org", port: 80],
+  http: [port: 4010],
   cache_static_manifest: "priv/static/cache_manifest.json"
 
 # Do not print debug messages in production
 config :logger, level: :info
 
-
-config :matrimandir, Matrimandir.Mailer,
-  adapter: Bamboo.MailgunAdapter,
-  api_key: "my_api_key"
 
 # ## SSL Support
 #
