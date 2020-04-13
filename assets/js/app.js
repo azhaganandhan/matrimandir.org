@@ -32,4 +32,13 @@ document.querySelectorAll('.modal-pdf').forEach(function(item) {
     })
 })
 
+document.querySelectorAll('.modal-poster').forEach(function(item) {
+    item.addEventListener('click', function(){
+        var img = this.getAttribute('data-poster-name')
+        console.log(img)
+        document.querySelector('#posterModal .modal-dialog .modal-content').innerHTML = `<img class="img-responsive" src="/images/design_posters/${img}.jpg" style="width: 100%;" alt="">`
+        $('#posterModal').modal('toggle')
+    })
+})
+
  
