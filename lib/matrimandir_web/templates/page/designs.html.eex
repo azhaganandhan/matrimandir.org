@@ -32,8 +32,9 @@
                 <!-- Divider -->
                 <hr class="card-meta-divider">
                 
-                <!-- Button -->
-                <button class="btn btn-primary-soft btn-sm modal-pdf" data-toggle="modal" data-pdf-name="MMG-LLPW-02">Details of design</button>
+                <!-- Buttons -->
+                <button class="btn btn-primary-soft btn-sm modal-poster mr-4 mt-2" data-toggle="modal" data-poster-name="MMG-LLPW-02">Design Poster</button>
+                <button class="btn btn-secondary-soft btn-sm modal-pdf mt-2" data-toggle="modal" data-pdf-name="MMG-LLPW-02">Details of design</button>
 
 
              </div>   
@@ -67,7 +68,8 @@
                 <hr class="card-meta-divider">
                 
                 <!-- Button -->
-                <button class="btn btn-primary-soft btn-sm modal-pdf" data-toggle="modal" data-pdf-name="MMG-LLPW-12">Details of design</button>
+                <button class="btn btn-primary-soft btn-sm modal-poster mr-4 mt-2" data-toggle="modal" data-poster-name="MMG-LLPW-12">Design Poster</button>
+                <button class="btn btn-secondary-soft btn-sm modal-pdf mt-2" data-toggle="modal" data-pdf-name="MMG-LLPW-12">Details of design</button>
              </div>   
 
             </div>
@@ -102,7 +104,8 @@
                   <hr class="card-meta-divider">
                   
                   <!-- Button -->
-                  <button class="btn btn-primary-soft btn-sm modal-pdf" data-toggle="modal" data-pdf-name="MMG-LLPW-13">Details of design</button> 
+                  <button class="btn btn-primary-soft btn-sm modal-poster mr-4 mt-2" data-toggle="modal" data-poster-name="MMG-LLPW-13">Design Poster</button>
+                  <button class="btn btn-secondary-soft btn-sm modal-pdf mt-2" data-toggle="modal" data-pdf-name="MMG-LLPW-13">Details of design</button> 
 
               </div>
             </div>  
@@ -135,7 +138,8 @@
                 <hr class="card-meta-divider">
                 
                 <!-- Button -->
-                <button class="btn btn-primary-soft btn-sm modal-pdf" data-toggle="modal" data-pdf-name="MMG-LLPW-14">Details of design</button> 
+                <button class="btn btn-primary-soft btn-sm modal-poster mr-4 mt-2" data-toggle="modal" data-poster-name="MMG-LLPW-14">Design Poster</button>
+                <button class="btn btn-secondary-soft btn-sm modal-pdf mt-2" data-toggle="modal" data-pdf-name="MMG-LLPW-14">Details of design</button> 
              </div>   
             </div>
 
@@ -169,7 +173,8 @@
                 <hr class="card-meta-divider">
                 
                 <!-- Button -->
-                <button class="btn btn-primary-soft btn-sm modal-pdf" data-toggle="modal" data-pdf-name="MMG-LLPW-41">Details of design</button> 
+                <button class="btn btn-primary-soft btn-sm modal-poster mr-4 mt-2" data-toggle="modal" data-poster-name="MMG-LLPW-41">Design Poster</button>
+                <button class="btn btn-secondary-soft btn-sm modal-pdf mt-2" data-toggle="modal" data-pdf-name="MMG-LLPW-41">Details of design</button> 
              </div>   
 
             </div>
@@ -201,7 +206,8 @@
                 <hr class="card-meta-divider">
                 
                 <!-- Button -->
-                <button class="btn btn-primary-soft btn-sm modal-pdf" data-toggle="modal" data-pdf-name="MMG-LLPW-46">Details of design</button> 
+                <button class="btn btn-primary-soft btn-sm modal-poster mr-4 mt-2" data-toggle="modal" data-poster-name="MMG-LLPW-46">Design Poster</button>
+                <button class="btn btn-secondary-soft btn-sm modal-pdf mt-2" data-toggle="modal" data-pdf-name="MMG-LLPW-46">Details of design</button> 
              </div>   
 
             </div>
@@ -237,7 +243,8 @@
                 <hr class="card-meta-divider">
                 
                 <!-- Button -->
-                <button class="btn btn-primary-soft btn-sm modal-pdf" data-toggle="modal" data-pdf-name="MMG-LLPW-52">Details of design</button>
+                <button class="btn btn-primary-soft btn-sm modal-poster mr-4 mt-2" data-toggle="modal" data-poster-name="MMG-LLPW-52">Design Poster</button>
+                <button class="btn btn-secondary-soft btn-sm modal-pdf mt-2" data-toggle="modal" data-pdf-name="MMG-LLPW-52">Details of design</button>
              </div>   
 
             </div>
@@ -270,7 +277,8 @@
                 <hr class="card-meta-divider">
                 
                 <!-- Button -->
-                <button class="btn btn-primary-soft btn-sm modal-pdf" data-toggle="modal" data-pdf-name="MMG-LLPW-57">Details of design</button>
+                <button class="btn btn-primary-soft btn-sm modal-poster mr-4 mt-2" data-toggle="modal" data-poster-name="MMG-LLPW-57">Design Poster</button>
+                <button class="btn btn-secondary-soft btn-sm modal-pdf mt-2" data-toggle="modal" data-pdf-name="MMG-LLPW-57">Details of design</button>
              </div>   
 
             </div>
@@ -306,7 +314,8 @@
                 <hr class="card-meta-divider">
                 
                 <!-- Button -->
-                <button class="btn btn-primary-soft btn-sm modal-pdf" data-toggle="modal" data-pdf-name="MMG-LLPW-62">Details of design</button>
+                <button class="btn btn-primary-soft btn-sm modal-poster mr-4 mt-2" data-toggle="modal" data-poster-name="MMG-LLPW-62">Design Poster</button>
+                <button class="btn btn-secondary-soft btn-sm modal-pdf mt-2" data-toggle="modal" data-pdf-name="MMG-LLPW-62">Details of design</button>
              </div>   
 
             </div>
@@ -338,7 +347,8 @@
                 <hr class="card-meta-divider">
                 
                 <!-- Button -->
-                <button class="btn btn-primary-soft btn-sm modal-pdf" data-toggle="modal" data-pdf-name="MMG-LLPW-65">Details of design</button>
+                <button class="btn btn-primary-soft btn-sm modal-poster mr-4 mt-2" data-toggle="modal" data-poster-name="MMG-LLPW-65">Design Poster</button>
+                <button class="btn btn-secondary-soft btn-sm modal-pdf" data-toggle="modal" data-pdf-name="MMG-LLPW-65">Details of design</button>
              </div>   
 
             </div>
@@ -369,7 +379,7 @@
 
 <!-- Modal for all pdfs -->
         <div id="pdfModal" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-lg">
+            <div class="modal-dialog special-modal-lg">
                 <div class="modal-content">
                     <div class="container">
                     
@@ -380,7 +390,7 @@
 
 <!-- Model for google form -->
         <div id="gformModal" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-          <div class="modal-dialog modal-lg">
+          <div class="modal-dialog special-modal-lg">
               <div class="modal-content">
                   <div class="container">
                     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeMCweRNFcPMo_7y3bay03VxhDaFR_7NpA3DO87rQIxU7a-bg/viewform?embedded=true&chrome=false" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>                    
@@ -388,3 +398,12 @@
               </div>
           </div>
       </div>
+
+<!-- Modal for design posters -->
+<div id="posterModal" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg poster-modal-dialog">
+      <div class="modal-content mb-0 p-0">
+
+      </div>
+  </div>
+</div>

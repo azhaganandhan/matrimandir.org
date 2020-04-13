@@ -53,28 +53,28 @@ i.play-icon{
     margin-bottom: 3rem;
 }
 
-.modal-lg{
+.special-modal-lg{
     min-width: 90%;
 }
 
-.modal-lg .modal-content .container{
+.special-modal-lg .modal-content .container{
     height: 900px !important;
     min-width: 90%;
 }
 
-.modal-lg .modal-content{
+.special-modal-lg .modal-content{
     height: 1000px;
 }
 
 @media only screen and (max-width: 600px) {
-    .modal-lg .modal-content .container{
+    .special-modal-lg .modal-content .container{
         height: 450px !important;
     }
     
-    .modal-lg .modal-content{
+    .special-modal-lg .modal-content{
         height: 525px;
     }
-    .modal-lg{
+    .special-modal-lg{
         min-width: auto;
     }
 }
@@ -99,4 +99,8 @@ i.play-icon{
 
 .related-links{
     background: #80808014;
+}
+
+.poster-modal-dialog{
+    min-width: 90%;
 }
