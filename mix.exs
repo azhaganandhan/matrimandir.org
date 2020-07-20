@@ -15,7 +15,7 @@ defmodule Matrimandir.MixProject do
   end
 
   # Configuration for the OTP application.
-  #
+  # Hello World
   # Type `mix help compile.app` for more information.
   def application do
     [
