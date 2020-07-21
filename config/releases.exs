@@ -90,24 +90,24 @@ mailgun_api_key =
 
 asset_host = "https://#{s3_host}/#{s3_bucket_name}"
 
-config :cc, Matrimandir.Repo,
+config :matrimandir, Matrimandir.Repo,
   url: database_url,
   pool_size: 10,
   ssl: false
 
-config :cc, MatrimandirWeb.Endpoint,
+config :matrimandir, MatrimandirWeb.Endpoint,
   url: [host: "#{app_domain}.#{app_base_domain}", port: 443, scheme: "https"],
   http: [:inet6, port: 4000],
   secret_key_base: secret_key_base
 
-config :cc, OAuth2,
+config :matrimandir, OAuth2,
   client_id: oauth_client_id,
   client_secret: oauth_client_secret,
   redirect_uri: redirect_url,
   site: oauth_login_url,
   strategy: MatrimandirWeb.AurovilleAccount
 
-config :cc, MatrimandirWeb.Endpoint, server: true
+config :matrimandir, MatrimandirWeb.Endpoint, server: true
 
 config :arc,
   storage: Arc.Storage.S3,
@@ -121,7 +121,7 @@ config :ex_aws,
   access_key_id: [s3_access_key, :instance_role],
   secret_access_key: [s3_access_secret, :instance_role]
 
-config :cc, Matrimandir.Mailer,
+config :matrimandir, Matrimandir.Mailer,
   adapter: Bamboo.MailgunAdapter,
   api_key: mailgun_api_key,
   domain: "auroville.org.in"
