@@ -1,4 +1,4 @@
 #!/bin/bash
-docker build -t docker.talam.io/matrimandir .
-docker push docker.talam.io/matrimandir
-microk8s kubectl rollout restart deployment/matrimandir
+docker build -t azhaganandhan/matrimandir.org .
+docker push azhaganandhan/matrimandir.org
+microk8s kubectl rollout restart deployment/matrimandir.org
