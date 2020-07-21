@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: matrimandir
-        image: azhaganandhan/matrimandir:latest
+        image: docker.talam.io/matrimandir.org:latest
         envFrom:
           - secretRef:
               name: matrimandir-app-secret
