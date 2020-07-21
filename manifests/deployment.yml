@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: matrimandir
+spec:
+  selector:
+    matchLabels:
+      app: matrimandir # has to match .spec.template.metadata.labels
+  strategy:
+    # Specifies the strategy used to replace old Pods by new ones
+    # Refer: https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#strategy
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: matrimandir # Has to match .spec.selector.matchLabels
+    spec:
+      containers:
+      - name: matrimandir
+        image: docker.talam.io/matrimandir:latest
+        envFrom:
+          - secretRef:
+              name: matrimandir-app-secret
+        ports:
+        - containerPort: 5432
+          name: matrimandir
