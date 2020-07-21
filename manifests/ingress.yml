@@ -9,7 +9,7 @@ spec:
   rules:
   - host: mm.azha.talam.io
     http:
-      paths:
+      paths: 
       - backend:
           serviceName: matrimandir
           servicePort: 4000
