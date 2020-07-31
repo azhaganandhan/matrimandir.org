@@ -6,9 +6,8 @@ on:
         description: 'Log level'
         required: true
         default: 'warning'
-      jobs:
-        build:
-          runs-on: ubuntu-latest
+      tags:
+        description: 'Test scenario tags'  
         steps:
           - uses: Azure/k8s-deploy@v1
             with:
